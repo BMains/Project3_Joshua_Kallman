@@ -1,0 +1,67 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h1 {
+    text-align:center;
+}
+u1 {
+    margin-top: 7.5px
+}
+span {
+
+    width: 33.3%;
+    float: left;
+    padding: .5em 45px 0 15px;
+    font-family: 'Lato',Verdana,Arial,Helvetica,sans-serif;
+}
+.product-details {
+    background-color: #F6F6F5;
+    clear: both;
+    float: left;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+product-details>u1.solo.diamond {
+    margin-top : 7.5px;
+}
+.product-details>ul>li.field {
+    width: 32.3%;
+    font-size: 9pt;
+    clear: both;
+    color: #888;
+    font-family: 'Libre Baskerville',Arial,Helvetica,serif;
+    font-style: normal;
+    letter-spacing: 0;
+}
+.product-details>ul>li {
+    display: block;
+    color: #000;
+    font-family: 'Lato',Verdana,Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+    line-height: 18pt;
+    float: left;
+}
+.product-details>ul {
+    width: 66.6%;
+    float: right;
+}
+ul, ol {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0;
+}
+
+.product-details>ul>li {
+    display: block;
+    color: #000;
+    font-family: 'Lato',Verdana,Arial,Helvetica,sans-serif;
+    font-size: 10pt;
+    line-height: 18pt;
+    float: left;
+}
+
